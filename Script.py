@@ -29,17 +29,17 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 📢 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ : <a href=https://t.me/MS_Movvies>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 🌟 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ : <a href=https://t.me/Increaddible_Hun>ʀᴇᴩᴏ ʟɪɴᴋ</a></b>"""
 
-    SOURCES_TXT = """Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @MS_Movvies
+    SOURCES_TXT = """<b>Tʜɪs Is Aɴ Oᴩᴇɴ-Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ Bʏ @MS_Movvies
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Increaddible_Hun>sʜᴀʀᴀᴛʜ</a>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Increaddible_Hun>ᴍɪʜɪʀ sᴇɴ</a>
 
-- & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
+- & Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ</b>"""
 
-    SOURCE_TXT = """ɪᴛ's ᴀɴ ᴄʟᴏsᴇᴅ sᴏᴜʀᴄᴇ ʙᴏᴛ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴄᴏɴᴛᴀᴄᴛ @Increaddible_Hun @MS_Movvies</b>
+    SOURCE_TXT = """<b>ɪᴛ's ᴀɴ ᴄʟᴏsᴇᴅ sᴏᴜʀᴄᴇ ʙᴏᴛ ɪғ ʏᴏᴜ ᴡᴀɴᴛ ᴄᴏɴᴛᴀᴄᴛ @Increaddible_Hun @MS_Movvies</b>
 
-- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Increddible_Hun>sʜᴀʀᴀᴛʜ</a></b>
+- 100﹪ Cᴏᴅᴇᴅ Bʏ <a href=https://t.me/Increddible_Hun>ᴍɪʜɪʀ sᴇɴ</a></b>
 
-- Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ"""
+- Rᴇᴩᴏ Lɪɴᴋ 👇 Hᴇʀᴇ</b>"""
 
     FONT_TXT = """I Cᴀɴ Gᴇɴᴇʀᴀᴛᴇ Aᴛᴛʀᴀᴄᴛɪᴠᴇ Fᴏɴᴛs Fᴏʀ Yᴏᴜʀ Tᴇxᴛ Sᴇɴᴅ Lɪᴋᴇ Tʜɪs 👇
 
@@ -98,3 +98,7 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Nᴏᴡ 👇</b>"""
 ɪᴅ ♥️- <code>{}</code>
 ɴᴀᴍᴇ 💥- {} </b>
 """
+    CAPTION = """<b> ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : <a href=https://t.me/MS_Movvis>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : <a href=https://t.me/MS_Movvies>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬ </b>"""
