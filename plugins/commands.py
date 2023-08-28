@@ -47,13 +47,9 @@ async def start(client, message):
 
             ],[
 
-            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/MS_Movvies'),
+            InlineKeyboardButton('🔥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 🔥', url='https://t.me/MS_Movvies'),
 
-            InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/MS_Movvis')
-
-            ],[
-
-            InlineKeyboardButton('😅 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 😊', callback_data='sources')
+            InlineKeyboardButton('🔎 Gʀᴏᴜᴘ 🔍', url='https://t.me/MS_Movvis')
 
             ],[
 
@@ -103,14 +99,19 @@ async def start(client, message):
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
             InlineKeyboardButton('➕ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ ➕', url=f"https://t.me/{temp.U_NAME}?startgroup=true")
+
             ],[
-            InlineKeyboardButton('💥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 💥', url='https://t.me/MS_Movvies'),
-            InlineKeyboardButton('🔎 Sᴇᴀʀᴄʜ Gʀᴏᴜᴘ 🔍', url='https://t.me/MS_Movvis')
+
+            InlineKeyboardButton('🔥 Mᴏᴠɪᴇ Uᴘᴅᴀᴛᴇs 🔥', url='https://t.me/MS_Movvies'),
+
+            InlineKeyboardButton('🔎 Gʀᴏᴜᴘ 🔍', url='https://t.me/MS_Movvis')
+
             ],[
-            InlineKeyboardButton('😅 Sᴏᴜʀᴄᴇ Cᴏᴅᴇ 😊', callback_data='sources')
-            ],[
+
             InlineKeyboardButton('💌 Aʙᴏᴜᴛ Aɴᴅ Iɴғᴏ 💌', callback_data= 'about')
+
             ],[
+
             InlineKeyboardButton('❌ Cʟᴏꜱᴇ ❌', callback_data='close_data')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
