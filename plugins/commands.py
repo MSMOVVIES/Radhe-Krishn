@@ -257,10 +257,7 @@ async def start(client, message):
             logger.exception(e)
             f_caption=f_caption
     if f_caption is None:
-        f_caption = f"{files.file_name} <b> ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-📌 ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ​ : <a href=https://t.me/MS_Movvis>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-🎬 ᴍᴏᴠɪᴇs ᴄʜᴀɴɴᴇʟ​ : <a href=https://t.me/MS_Movvies>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬ </b>"
+        f_caption = f"{files.file_name}"
     await client.send_cached_media(
         chat_id=message.from_user.id,
         file_id=file_id,
