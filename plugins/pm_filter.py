@@ -744,7 +744,7 @@ async def auto_filter(client, msg, spoll=False):
                                                                                                        reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("━ • │▌║  Aᴅᴅ Mᴇ Tᴏ Uʀ Gʀᴏᴜᴩ  ║▌│ • ━", url=f'http://t.me/{temp.U_NAME}?startgroup=true')],[InlineKeyboardButton("✰ мѕ ᴍᴏᴠᴠɪᴇꜱ࿐", url="https://t.me/MS_Movvuies"), InlineKeyboardButton("✪ Sᴜᴩᴩᴏʀᴛ Gʀᴏᴜᴩ ✪", url="Https://t.me/MS_Movvies"), InlineKeyboardButton("✪ Rᴇᴩᴏ ✪", url="https://t.me/MS_Movvis")],[InlineKeyboardButton("╚»♥️Dᴇʟᴇᴛᴇ Tʜɪs Mᴇssᴀɢᴇ ♥️«╝", callback_data="close_data")]]))
                 await asyncio.sleep(12)
                 await l.delete()
-                if settings["spell_check"]:Tᴀᴍɪʟᴀɴ
+                if settings["spell_check"]:
                     return await advantage_spell_chok(msg)
                 else:
                     return
